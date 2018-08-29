@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BazaDanychMVC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BazaDanychMVC_jar</output-path>
+    <root id="archive" name="BazaDanychMVC.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Controller" />
+      <element id="module-output" name="View" />
+      <element id="module-output" name="Model" />
+      <element id="module-output" name="DataBaseDAO" />
+      <element id="module-output" name="Services" />
+      <element id="module-output" name="Runner" />
+    </root>
+  </artifact>
+</component>
